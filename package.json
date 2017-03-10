@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "task.js": "0.0.22"
+    "require-bundle": "^1.0.1",
+    "task.js": "0.0.22",
+    "tweetnacl": "^1.0.0-rc.1",
+    "tweetnacl-util": "^0.14.0"
   }
 }
